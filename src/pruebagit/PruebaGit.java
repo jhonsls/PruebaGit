@@ -12,10 +12,10 @@ public class PruebaGit {
 
     /**
      * @param args the command line arguments
+     * version v1.0.0
      */
     public static void main(String[] args) {
         // TODO code application logic hereç
-        
-        //hola loco XD.
+     
     }
 }
